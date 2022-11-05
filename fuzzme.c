@@ -38,7 +38,6 @@ int main(int argc, char** argv)
     fuzzme(buf);
 
     fclose(f);
-
-    return 0;
 }
+
 
